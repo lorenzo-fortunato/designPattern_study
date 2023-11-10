@@ -1,0 +1,9 @@
+public enum Status {
+    INITIATED,
+    IN_PROGRESS,
+    GETTING_APPROVED_ON_TARGET_BANK,
+    RETURNED,
+    REJECTED,
+    DONE,
+    CLEARED
+}
