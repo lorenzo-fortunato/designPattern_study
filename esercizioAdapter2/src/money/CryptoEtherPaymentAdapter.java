@@ -4,8 +4,8 @@ public class CryptoEtherPaymentAdapter implements CryptroPayment{
 
     private IPaymentTransaction theTransaction;
 
-    public CryptoEtherPaymentAdapter(IPaymentTransaction aTransaction) {
-        this.theTransaction = aTransaction;
+    public CryptoEtherPaymentAdapter(IPaymentTransaction theTransaction) {
+        this.theTransaction = theTransaction;
     }
 
     @Override
