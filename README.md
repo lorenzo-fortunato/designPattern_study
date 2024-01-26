@@ -32,6 +32,7 @@
   <ul>
     <li>Extract Function</li>
     <li>Extract Class</li>
+    <li>Guard Clause</li>
     <li>Combinazione di diversi Design Pattern</li>
   </ul>
 </div>
